@@ -16,3 +16,5 @@ export class HousingLocationComponent {
   @Input() housingLocation!: HousingLocation;
 
 }
+export { HousingLocation };
+
